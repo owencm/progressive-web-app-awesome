@@ -28,6 +28,7 @@
 
 ### Blog posts
 
+- [http://webagility.com/posts/building-a-progressive-web-app-pwa-blog-series](Building a Progressive Web App (PWA) - blog series)
 - [Building Flipkart Lite: A Progressive Web App](https://medium.com/@AdityaPunjani/building-flipkart-lite-a-progressive-web-app-2c211e641883#.7u5bfs2qr) by @AdityaPunjani
 - [Instant Loading Web Apps with An Application Shell Architecture](https://developers.google.com/web/updates/2015/11/app-shell) by Google
 - [Designing Great UIs for Progressive Web Apps](https://medium.com/@owencm/designing-great-uis-for-progressive-web-apps-dd38c1d20f7#.9qc1pnpjc) by @owencm
